@@ -1,0 +1,22 @@
+{
+  "co":"this is my strength",
+  "data":{
+    "details":"12345"
+  },
+
+  "education":[{
+    "name":"BTech",
+    "Inst":"ALIET",
+    "Percentage":"90",
+  },
+  {
+    "name":"Inter",
+    "Inst":"SDMSMK",
+    "Percentage":"91",
+  }
+  {
+    "name":"S S C",
+    "Inst":"STBEMHS",
+    "Percentage":90,
+    }]
+}
