@@ -1,22 +1,35 @@
 {
-  "co":"this is my strength",
-  "data":{
-    "details":"12345"
-  },
+	"co": "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization.",
+	"data": {
+		"details": "12345"
+	},
 
-  "education":[{
-    "name":"BTech",
-    "Inst":"ALIET",
-    "Percentage":"90",
+	"educationalQualifications": [{
+			"name": "BTech",
+			"Inst": "ALIET with 80%"
+
+		},
+		{
+			"name": "Inter",
+			"Inst": "SDMSMK with 90%"
+
+		},
+		{
+			"name": "S S C",
+			"Inst": "STBEMHS with 90%"
+
+		}
+	],
+"techni":[{
+  "name":"Operating Systems",
+  "value":"windows,linux,etc."
   },
-  {
-    "name":"Inter",
-    "Inst":"SDMSMK",
-    "Percentage":"91",
-  }
-  {
-    "name":"S S C",
-    "Inst":"STBEMHS",
-    "Percentage":90,
-    }]
+{
+  "name":"Languages:",
+  "value":"HTML5.CSS3,javascript,Angular JS"
+}
+],
+"Achieve":{
+  "details":"I won 1st prize in my 10th"
+}
 }
